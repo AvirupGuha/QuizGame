@@ -1,4 +1,4 @@
-Here's a professional and concise **README description** for your `QuizGame` project:
+
 
 ---
 
